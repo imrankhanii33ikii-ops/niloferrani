@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Nilofer Rani Portfolio",
+  "description": "A high-end professional portfolio for a CAFM Administrator and UI/UX Designer, featuring a Gemini-powered AI Assistant with high-quality text-to-speech.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
